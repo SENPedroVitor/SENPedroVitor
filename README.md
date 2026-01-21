@@ -23,11 +23,14 @@
 
 ## 🎬 Hobbies
 
-🎵 **Música** • 🎬 **Cinema** [![Letterboxd](https://img.shields.io/badge/-Letterboxd-00D735?style=flat&logo=letterboxd&logoColor=white)](https://boxd.it/4lI09) • 📚 **Quadrinhos** • 🎌 **Anime**
+- 🎵 **Música**  
+- 🎬 **Cinema** [![Letterboxd](https://img.shields.io/badge/-Letterboxd-00D735?style=flat&logo=letterboxd&logoColor=white)](https://boxd.it/4lI09)  
+- 📚 **Quadrinhos**  
+- 🎌 **Anime**
 
 ---
 
-## Setup
+## 🛠️ Setup
 
 - **OS:** CachyOS  
 - **Editor:** VS Code  
@@ -36,10 +39,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  
+
+<h2>📊 GitHub Stats</h2>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SENPedroVitor&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 </div>
