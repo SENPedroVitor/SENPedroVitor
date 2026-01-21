@@ -1,11 +1,11 @@
-## Olá, sejam bem vindos 👋
+## Olá, my name is 👋
 <div align="center">
   
 # 🕹️ Pedro Vitor
 
 ### `Dev | Cinéfilo | Nerd | Designer`
 
-<img src="https://media1.tenor.com/m/pxASKGMMUJ4AAAAC/one-piece.gif" width="300" alt="One Piece GIF"/>
+<img src="one-piece.gif" width="300" alt="One Piece GIF"/>
 
 </div>
 
