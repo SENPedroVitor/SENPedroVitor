@@ -43,9 +43,14 @@
 
 <h2>📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SENPedroVitor&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<!-- Profile Details Card com nota -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SENPedroVitor&theme=radical)
 
-![Profile Grade](https://github-readme-stats.vercel.app/api?username=SENPedroVitor&show_icons=true&theme=radical&hide_border=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged)
+<!-- Stats Card -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SENPedroVitor&theme=radical)
+
+<!-- Top Languages -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SENPedroVitor&theme=radical)
 
 </div>
 
