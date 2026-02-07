@@ -43,7 +43,7 @@
 
 <h2>📊 GitHub Stats</h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SENPedroVitor&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SENPedroVitor&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
 
 </div>
 
