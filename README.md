@@ -45,6 +45,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SENPedroVitor&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
+![Profile Grade](https://github-readme-stats.vercel.app/api?username=SENPedroVitor&show_icons=true&theme=radical&hide_border=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged)
+
 </div>
 
 ---
