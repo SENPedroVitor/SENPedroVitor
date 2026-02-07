@@ -43,14 +43,7 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<!-- Profile Details Card com nota -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SENPedroVitor&theme=radical)
-
-<!-- Stats Card -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SENPedroVitor&theme=radical)
-
-<!-- Top Languages -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SENPedroVitor&theme=radical)
 
 </div>
 
