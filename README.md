@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre
 
-🎯 Estudante de **Engenharia de Software**  
+🎯 Estudante de **Ciência de Dados e Inteligência Artificial**  
 📍 Goiânia, GO  
 ☕ Café + Código + Música = Flow  
 
