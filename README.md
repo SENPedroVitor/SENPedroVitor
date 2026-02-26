@@ -39,21 +39,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## ☕ Quadro de Contribuições
-
-<div align="center">
-
-![Coffee Contributions Board](coffee-board.svg)
-
-<br/>
-Cada contribuição vira um café.
-
-</div>
-
----
-
 ## 📡 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vitor-magalh%C3%A3es-da-silva-a01118327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
