@@ -46,41 +46,37 @@ def fetch_total_contributions(token: str, username: str) -> int:
 
 
 def generate_svg(total_contributions: int, output_path: str) -> None:
-    """Generate a coffee board SVG based on total contributions."""
-    # Each contribution == one coffee, but cap for the board so it doesn't explode
-    max_cups = 200
+    """Generate a cleaner, more minimal coffee board SVG."""
+    # Each contribution == one coffee, but cap for the board
+    max_cups = 120
     cups = max(1, min(total_contributions, max_cups))
 
-    cups_per_row = 10
-    cup_size = 24  # spacing between coffees
-    padding_x = 24
-    padding_y = 60
+    cups_per_row = 12
+    cup_size = 20  # spacing between coffees
+    padding_x = 32
+    padding_y = 56
 
     rows = math.ceil(cups / cups_per_row)
 
     width = padding_x * 2 + cups_per_row * cup_size
-    height = padding_y * 2 + rows * cup_size
+    height = padding_y * 2 + rows * cup_size + 20
 
-    title = "☕ Coffee Board"
-    subtitle = f"{total_contributions} contribuições = {total_contributions} cafés"
-    if total_contributions > max_cups:
-        subtitle += f" (mostrando {max_cups} no quadro)"
-
-    updated_at = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    title = "Coffee Contributions"
+    updated_at = datetime.utcnow().strftime("%Y-%m-%d")
 
     svg_parts = [
         f"<svg xmlns='http://www.w3.org/2000/svg' width='{width}' height='{height}' viewBox='0 0 {width} {height}'>",
         "  <defs>",
         "    <style>",
-        "      .bg { fill: #0d1117; }",
-        "      .title { fill: #f5f5f5; font-size: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; }",
-        "      .subtitle { fill: #c9d1d9; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; }",
-        "      .cup { font-size: 18px; font-family: 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', system-ui; }",
+        "      .bg { fill: #050816; }",
+        "      .title { fill: #e5e7eb; font-size: 18px; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; }",
+        "      .meta { fill: #9ca3af; font-size: 11px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; }",
+        "      .cup { font-size: 16px; font-family: 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', system-ui; }",
         "    </style>",
         "  </defs>",
         f"  <rect class='bg' x='0' y='0' width='{width}' height='{height}' rx='16' ry='16' />",
-        f"  <text class='title' x='{padding_x}' y='32'>{title}</text>",
-        f"  <text class='subtitle' x='{padding_x}' y='50'>{subtitle}</text>",
+        f"  <text class='title' x='{padding_x}' y='30'>☕ Coffee board</text>",
+        f"  <text class='meta' x='{padding_x}' y='46'>{total_contributions} contribuições no último ano · atualizado {updated_at}</text>",
     ]
 
     start_y = padding_y
@@ -91,12 +87,6 @@ def generate_svg(total_contributions: int, output_path: str) -> None:
         x = padding_x + col * cup_size
         y = start_y + row * cup_size
         svg_parts.append(f"  <text class='cup' x='{x}' y='{y}'>☕</text>")
-
-    # Small footer note with last update time
-    footer_text = f"Cada contribuição vira um café · Atualizado em {updated_at}."
-    svg_parts.append(
-        f"  <text class='subtitle' x='{padding_x}' y='{height - 16}'>{footer_text}</text>"
-    )
 
     svg_parts.append("</svg>")
 
