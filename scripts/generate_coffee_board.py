@@ -1,6 +1,6 @@
 import math
 import os
-import textwrap
+from datetime import datetime
 
 import requests
 
@@ -66,6 +66,8 @@ def generate_svg(total_contributions: int, output_path: str) -> None:
     if total_contributions > max_cups:
         subtitle += f" (mostrando {max_cups} no quadro)"
 
+    updated_at = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
     svg_parts = [
         f"<svg xmlns='http://www.w3.org/2000/svg' width='{width}' height='{height}' viewBox='0 0 {width} {height}'>",
         "  <defs>",
@@ -90,8 +92,8 @@ def generate_svg(total_contributions: int, output_path: str) -> None:
         y = start_y + row * cup_size
         svg_parts.append(f"  <text class='cup' x='{x}' y='{y}'>☕</text>")
 
-    # Small footer note
-    footer_text = "Cada contribuição vira um café."
+    # Small footer note with last update time
+    footer_text = f"Cada contribuição vira um café · Atualizado em {updated_at}."
     svg_parts.append(
         f"  <text class='subtitle' x='{padding_x}' y='{height - 16}'>{footer_text}</text>"
     )
