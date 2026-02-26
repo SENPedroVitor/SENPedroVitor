@@ -41,13 +41,14 @@
 
 ---
 
+## ☕ Quadro de Contribuições
+
 <div align="center">
 
-<h2>📊 GitHub Stats</h2>
+![Coffee Contributions Board](coffee-board.svg)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SENPedroVitor&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SENPedroVitor&layout=compact&theme=radical&hide_border=true)
+<br/>
+Cada contribuição vira um café.
 
 </div>
 
