@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# hi, my name is Pedro and I like coffe
+# hi, my name is Pedro and I like coffee
 
 ### `Data Science | IA | Cinéfilo | Nerd`
 
