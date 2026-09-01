@@ -5,7 +5,7 @@
 
 ### `Data Science | IA | Cinéfilo | Nerd`
 
-<img src="shikamaru.gif" width="300" alt="Shikamaru GIF"/>
+<img src="shikamaru-roof.gif" width="300" alt="Shikamaru Nara on Roof"/>
 
 </div>
 
