@@ -34,27 +34,27 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://letterboxd.com/pedroogrande/film/eternal-sunshine-of-the-spotless-mind/">
-        <img src="assets/movies/eternal-sunshine.jpg" width="130" alt="Eternal Sunshine of the Spotless Mind"/><br/>
-        <sub><b>Brilho Eterno...</b><br/>★★★★★</sub>
+      <a href="https://letterboxd.com/pedroogrande/film/django-unchained/">
+        <img src="assets/movies/django-unchained.jpg" width="130" alt="Django Unchained"/><br/>
+        <sub><b>Django Livre</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://letterboxd.com/pedroogrande/film/shin-godzilla/">
-        <img src="assets/movies/shin-godzilla.jpg" width="130" alt="Shin Godzilla"/><br/>
-        <sub><b>Shin Godzilla</b><br/>★★★★★</sub>
+      <a href="https://letterboxd.com/pedroogrande/film/back-to-the-future/">
+        <img src="assets/movies/back-to-the-future.jpg" width="130" alt="Back to the Future"/><br/>
+        <sub><b>De Volta p/ o Futuro</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://letterboxd.com/pedroogrande/film/star-wars-episode-iii-revenge-of-the-sith/">
-        <img src="assets/movies/revenge-of-the-sith.jpg" width="130" alt="Star Wars: Revenge of the Sith"/><br/>
-        <sub><b>Star Wars: Ep. III</b><br/>★★★★★</sub>
+      <a href="https://letterboxd.com/pedroogrande/film/50-first-dates/">
+        <img src="assets/movies/50-first-dates.jpg" width="130" alt="50 First Dates"/><br/>
+        <sub><b>Como Se Fosse a 1ª Vez</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://letterboxd.com/pedroogrande/film/the-texas-chain-saw-massacre/">
-        <img src="assets/movies/texas-chainsaw.jpg" width="130" alt="The Texas Chain Saw Massacre"/><br/>
-        <sub><b>Massacre da Serra...</b><br/>★★★★★</sub>
+      <a href="https://letterboxd.com/pedroogrande/film/past-lives/">
+        <img src="assets/movies/past-lives.jpg" width="130" alt="Past Lives"/><br/>
+        <sub><b>Vidas Passadas</b></sub>
       </a>
     </td>
   </tr>
