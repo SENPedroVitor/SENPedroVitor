@@ -1,33 +1,37 @@
+![profile views](https://komarev.com/ghpvc/?username=SENPedroVitor&color=9e1a1a&style=flat-square&label=profile+views)
 
-<div align="center">
-  
-# hi, my name is Pedro and I like coffee
+# Hi! I'm Pedro! ☕✨
 
-### `Data Science | IA | Cinéfilo | Nerd`
+<table>
+  <tr>
+    <td valign="top" width="58%">
 
-<img src="shikamaru-roof.gif" width="300" alt="Shikamaru Nara on Roof"/>
+Hi! My name is **Pedro Vitor**  
+and chat with me here:
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vitor-magalh%C3%A3es-da-silva-a01118327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Letterboxd](https://img.shields.io/badge/-Letterboxd-00D735?style=flat&logo=letterboxd&logoColor=white)](https://boxd.it/4lI09)
+
+I am passionate about technology, data intelligence, machine learning, and creative media. Currently studying **Data Science & Artificial Intelligence**, exploring Machine Learning, Deep Learning, and Computer Vision to turn complex data into smart, actionable solutions.
+
+<img src="https://api.iconify.design/lucide:coffee.svg?color=%23d4af37" height="15" align="top"/> Café + Código + Música = Flow
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,opencv,matplot,js,nodejs,java,postgres,mongodb,sqlite,linux,bash,git,docker,vscode,figma,ps,ai,pr,ae&theme=dark" alt="My Skills" />
+</a>
+
+  </td>
+  <td valign="middle" align="center" width="42%">
+    <img src="shikamaru-roof.gif" width="340" alt="Shikamaru Nara on Roof"/>
+  </td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://api.iconify.design/lucide:user.svg?color=%23ffffff" height="20" align="top"/> Sobre
-
-<img src="https://api.iconify.design/lucide:target.svg?color=%233776AB" height="16" align="top"/> Estudante de **Ciência de Dados e Inteligência Artificial**   
-<img src="https://api.iconify.design/lucide:coffee.svg?color=%23d4af37" height="16" align="top"/> Café + Código + Música = Flow  
-
-<img src="https://api.iconify.design/lucide:lightbulb.svg?color=%23ffd700" height="16" align="top"/> Documentando minha jornada de aprendizado um commit por vez
-
----
-
-## <img src="https://api.iconify.design/lucide:clapperboard.svg?color=%2300D735" height="20" align="top"/> Hobbies & Favoritos
-
-- <img src="https://api.iconify.design/lucide:headphones.svg?color=%23ffffff" height="16" align="top"/> **Música**  
-- <img src="https://api.iconify.design/lucide:film.svg?color=%2300D735" height="16" align="top"/> **Cinema** [![Letterboxd](https://img.shields.io/badge/-Letterboxd-00D735?style=flat&logo=letterboxd&logoColor=white)](https://boxd.it/4lI09)  
-- <img src="https://api.iconify.design/lucide:book-open.svg?color=%23ffffff" height="16" align="top"/> **Quadrinhos**  
-- <img src="https://api.iconify.design/lucide:tv.svg?color=%23ffffff" height="16" align="top"/> **Anime**
-
-### <img src="https://api.iconify.design/lucide:popcorn.svg?color=%23ff9d00" height="18" align="top"/> Top 4 Filmes Favoritos
+### <img src="https://api.iconify.design/lucide:popcorn.svg?color=%23ff9d00" height="18" align="top"/> Top 4 Filmes Favoritos (Letterboxd)
 
 <div align="center">
 
@@ -61,48 +65,6 @@
 </table>
 
 </div>
-
----
-
-## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23ffffff" height="20" align="top"/> Tecnologias & Ferramentas
-
-### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%233776AB" height="18" align="top"/> Data Science & Inteligência Artificial
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-### <img src="https://api.iconify.design/lucide:code-2.svg?color=%23F7DF1E" height="18" align="top"/> Desenvolvimento & Banco de Dados
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### <img src="https://api.iconify.design/lucide:palette.svg?color=%23F24E1E" height="18" align="top"/> Design & Audiovisual
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Premiere](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-## <img src="https://api.iconify.design/lucide:link-2.svg?color=%230A66C2" height="20" align="top"/> Links & Conexões
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vitor-magalh%C3%A3es-da-silva-a01118327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
 
 ---
 
