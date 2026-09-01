@@ -27,40 +27,34 @@
 - 📚 **Quadrinhos**  
 - 🎌 **Anime**
 
-### 🍿 Top 5 Filmes no Letterboxd
+### 🍿 Top 4 Filmes Favoritos
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://letterboxd.com/pedroogrande/film/eternal-sunshine-of-the-spotless-mind/">
-        <img src="assets/movies/eternal-sunshine.jpg" width="120" alt="Eternal Sunshine of the Spotless Mind"/><br/>
+        <img src="assets/movies/eternal-sunshine.jpg" width="130" alt="Eternal Sunshine of the Spotless Mind"/><br/>
         <sub><b>Brilho Eterno...</b><br/>★★★★★</sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://letterboxd.com/pedroogrande/film/shin-godzilla/">
-        <img src="assets/movies/shin-godzilla.jpg" width="120" alt="Shin Godzilla"/><br/>
+        <img src="assets/movies/shin-godzilla.jpg" width="130" alt="Shin Godzilla"/><br/>
         <sub><b>Shin Godzilla</b><br/>★★★★★</sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://letterboxd.com/pedroogrande/film/star-wars-episode-iii-revenge-of-the-sith/">
-        <img src="assets/movies/revenge-of-the-sith.jpg" width="120" alt="Star Wars: Revenge of the Sith"/><br/>
+        <img src="assets/movies/revenge-of-the-sith.jpg" width="130" alt="Star Wars: Revenge of the Sith"/><br/>
         <sub><b>Star Wars: Ep. III</b><br/>★★★★★</sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://letterboxd.com/pedroogrande/film/the-texas-chain-saw-massacre/">
-        <img src="assets/movies/texas-chainsaw.jpg" width="120" alt="The Texas Chain Saw Massacre"/><br/>
+        <img src="assets/movies/texas-chainsaw.jpg" width="130" alt="The Texas Chain Saw Massacre"/><br/>
         <sub><b>Massacre da Serra...</b><br/>★★★★★</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://letterboxd.com/pedroogrande/film/godzilla-minus-one/">
-        <img src="assets/movies/godzilla-minus-one.jpg" width="120" alt="Godzilla Minus One"/><br/>
-        <sub><b>Godzilla Minus One</b><br/>★★★★½</sub>
       </a>
     </td>
   </tr>
