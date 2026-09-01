@@ -11,23 +11,23 @@
 
 ---
 
-## 👨‍💻 Sobre
+## <img src="https://api.iconify.design/lucide:user.svg?color=%23ffffff" height="20" align="top"/> Sobre
 
-🎯 Estudante de **Ciência de Dados e Inteligência Artificial**   
-☕ Café + Código + Música = Flow  
+<img src="https://api.iconify.design/lucide:target.svg?color=%233776AB" height="16" align="top"/> Estudante de **Ciência de Dados e Inteligência Artificial**   
+<img src="https://api.iconify.design/lucide:coffee.svg?color=%23d4af37" height="16" align="top"/> Café + Código + Música = Flow  
 
-💡 Documentando minha jornada de aprendizado um commit por vez
+<img src="https://api.iconify.design/lucide:lightbulb.svg?color=%23ffd700" height="16" align="top"/> Documentando minha jornada de aprendizado um commit por vez
 
 ---
 
-## 🎬 Hobbies & Favoritos
+## <img src="https://api.iconify.design/lucide:clapperboard.svg?color=%2300D735" height="20" align="top"/> Hobbies & Favoritos
 
-- 🎵 **Música**  
-- 🎬 **Cinema** [![Letterboxd](https://img.shields.io/badge/-Letterboxd-00D735?style=flat&logo=letterboxd&logoColor=white)](https://boxd.it/4lI09)  
-- 📚 **Quadrinhos**  
-- 🎌 **Anime**
+- <img src="https://api.iconify.design/lucide:headphones.svg?color=%23ffffff" height="16" align="top"/> **Música**  
+- <img src="https://api.iconify.design/lucide:film.svg?color=%2300D735" height="16" align="top"/> **Cinema** [![Letterboxd](https://img.shields.io/badge/-Letterboxd-00D735?style=flat&logo=letterboxd&logoColor=white)](https://boxd.it/4lI09)  
+- <img src="https://api.iconify.design/lucide:book-open.svg?color=%23ffffff" height="16" align="top"/> **Quadrinhos**  
+- <img src="https://api.iconify.design/lucide:tv.svg?color=%23ffffff" height="16" align="top"/> **Anime**
 
-### 🍿 Top 4 Filmes Favoritos
+### <img src="https://api.iconify.design/lucide:popcorn.svg?color=%23ff9d00" height="18" align="top"/> Top 4 Filmes Favoritos
 
 <div align="center">
 
@@ -64,9 +64,9 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=%23ffffff" height="20" align="top"/> Tecnologias & Ferramentas
 
-### 🧠 Data Science & Inteligência Artificial
+### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%233776AB" height="18" align="top"/> Data Science & Inteligência Artificial
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -77,7 +77,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-### 💻 Desenvolvimento & Banco de Dados
+### <img src="https://api.iconify.design/lucide:code-2.svg?color=%23F7DF1E" height="18" align="top"/> Desenvolvimento & Banco de Dados
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -90,7 +90,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🎨 Design & Audiovisual
+### <img src="https://api.iconify.design/lucide:palette.svg?color=%23F24E1E" height="18" align="top"/> Design & Audiovisual
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -99,7 +99,7 @@
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 📡 Links
+## <img src="https://api.iconify.design/lucide:link-2.svg?color=%230A66C2" height="20" align="top"/> Links & Conexões
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vitor-magalh%C3%A3es-da-silva-a01118327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
