@@ -5,7 +5,7 @@
 
 ### `Data Science | IA | Cinéfilo | Nerd`
 
-<img src="blackbeard.gif" width="300" alt="Blackbeard One Piece GIF"/>
+<img src="shikamaru.gif" width="300" alt="Shikamaru GIF"/>
 
 </div>
 
